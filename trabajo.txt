@@ -3,3 +3,5 @@ Hola
 Esta es la segunda modificación del fichero, desde Git
 
 Seguimos modificando nuestro repositorio, ahora incluyendo ramas nuevas
+
+Nuestro fichero es el bueno, no nos gustan los conflictos.
